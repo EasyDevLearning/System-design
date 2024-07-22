@@ -10,7 +10,7 @@ In preparing for system design interviews, I strategically approached my prepara
 to build a solid foundation. From there, I categorized my study into specific domains like social media or e-commerce systems. I then focused on 
 practical use cases and adapted my solutions to varying seniority levels and difficulty levels. This structured approach not only deepened my understanding 
 but also prepared me comprehensively for the challenges of FAANG-level interviews.<br><br>
-![SDI](https://github.com/ibrahimEd/system-design-interview-questions/blob/main/system-design-interview-questions.png)
+![SDI](https://github.com/EasyDevLearning/System-design/blob/main/system-design-interview-questions.png)
 
 Let’s start with the common system design questions that are asked in the FAANG companies.
 <br>
