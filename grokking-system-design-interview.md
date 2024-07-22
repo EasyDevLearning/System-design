@@ -2,7 +2,7 @@
 System design is the process of designing the architecture using key components, interfaces, and data shared between these components to meet a certain set of (functional and nonfunctional) requirements.
 A typical system design architecture looks something similar to this image:
 <p align="center">
-  <img src="https://github.com/ibrahimEd/grokking-system-design-interview/blob/main/streaming-300.png" alt="streaming service (youtube) system design" width="700" height="400">
+  <img src="https://github.com/EasyDevLearning/System-design/blob/main/streaming-300.png" alt="streaming service (youtube) system design" width="700" height="400">
 </p>
 
 ## System design interviews
