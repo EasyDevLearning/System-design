@@ -1,7 +1,7 @@
 # System Design Interview Questions at FAANG
 As a software engineer, I know the ambition of landing a role at FAANG (Facebook/Meta, Amazon, Apple, Netflix, Google) or MAANG (including Microsoft). The goal of joining these companies may stem from various reasons, but for many, it is the cutting-edge technologies these companies work on to build large-scale distributed systems. They offer challenging and impactful projects, boosting career growth, global influence, and attractive compensation. 
 <p align="center">
-  <img src="https://github.com/yasir-educative/system-design-interview/blob/main/FAANG.png" alt="system design of video streaming service" width="600" height="150">
+  <img src="FAANG.png" alt="system design of video streaming service" width="600" height="150">
 </p>
 
 <br>Applying as a senior software engineer, I already knew that I had to go through the [system design interview](https://www.educative.io/blog/faang-system-design-interview-guide); a bit scary to know it is one of the toughest parts of the FAANG interview process. I’m sharing some common system design interview questions asked at each FAANG (including Microsoft). 
