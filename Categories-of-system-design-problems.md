@@ -41,7 +41,7 @@ Different resources on the internet have categorized the above problem based on 
    - [Design a Dropbox system](https://www.youtube.com/watch?v=4_qu1F9BXow)
 
 <p align="center">
-  <img src="https://github.com/Bismillah-Jan/githublists-system-design/blob/main/typesOfSystemDesigns.png" alt="system design of video streaming service" width="700" height="500">
+  <img src="typesOfSystemDesigns.png" alt="system design of video streaming service" width="700" height="500">
 </p>
 
 ## Preparation resources for system design interviews
