@@ -20,6 +20,6 @@ I’ve curated the following GitHub lists for comprehensive preparation:
 <br>
  * [Grokking the system design interview](https://github.com/EasyDevLearning/System-design/blob/main/grokking-system-design-interview.md)
  * [System Design Interview Questions](https://github.com/EasyDevLearning/System-design/blob/main/system-design-interview-questions.md.md)
- * [System Design Interview Questions at FAANG](https://github.com/EasyDevLearning/System-design/tree/main)
- * [Categories of System Design Interview Questions](https://github.com/EasyDevLearning/System-design/tree/main)
- * [System Design Interview](https://github.com/EasyDevLearning/System-design/tree/main)
+ * [System Design Interview Questions at FAANG](https://github.com/EasyDevLearning/System-design/blob/main/SDI%20questions%20at%20FAANG.md)
+ * [Categories of System Design Interview Questions](https://github.com/EasyDevLearning/System-design/blob/main/Categories-of-system-design-problems.md)
+ * [System Design Interview](https://github.com/EasyDevLearning/System-design/blob/main/guide.md)
